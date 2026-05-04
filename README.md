@@ -4,7 +4,7 @@ This repository contains my work for Assignment 12. This assignment uses python 
 
 ## Files Included
 
-- 'module120-assignment,py'
+- 'module12-assignment,py'
 - 'README.md'
 
 ## What I practiced
